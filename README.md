@@ -1,6 +1,6 @@
 # Albumy
 
-###git push myfork master
+### git push myfork master
 
 *Capture and share every wonderful moment.*
 
