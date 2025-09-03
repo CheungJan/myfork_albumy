@@ -1,0 +1,2 @@
+hello this repo from clonegit remote add myfork git@github.com:您的用户名/albumy.git
+
